@@ -1,0 +1,23 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(193, 119, 242);
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    padding: 10px;
+    background-color: rgb(114, 114, 227);
+    border: 1px solid rgb(114, 114, 227);
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: rgb(147, 147, 255);
+    border: none;
+    color: black;
+}
